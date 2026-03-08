@@ -1,0 +1,19 @@
+.dashboard-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4f6f9;
+}
+
+
+.dashboard-title {
+  font-size: 28px;
+  color: #4f46e5;
+  margin-bottom: 15px;
+}
+
+.dashboard-text {
+  font-size: 16px;
+  color: #555;
+}
